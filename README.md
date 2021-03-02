@@ -8,3 +8,5 @@ The class to write this method in is `lib/fibonacci.rb`.
 The tests that are run and are visible to the candidate are located in `test/test_fibonacci.rb`.
 
 The tests that are run and are not visible to the candidate are located in `test/test_hidden_fibonacci.rb`.
+
+Your solution also must use/be compatible with `Ruby version 3.0`.
